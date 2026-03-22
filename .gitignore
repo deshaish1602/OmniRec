@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pkl
+*.pyc
+.DS_Store
+data/movies/*.csv
+data/food/*.csv
+data/fashion/*.csv
+data/fashion/images/
+models/
+*.xlsx
