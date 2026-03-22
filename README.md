@@ -7,7 +7,7 @@ The system is designed to simulate a real-world recommendation engine where unst
 ---
 
 ## Live Demo
-https://your-demo-link.streamlit.app
+ https://omnirec-5yk945k5xe7upciphycbjz.streamlit.app/
 
 ---
 
